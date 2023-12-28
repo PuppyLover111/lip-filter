@@ -35,7 +35,7 @@ function gotPoses (results){
 
 function draw(){
     image(video,0,0,300,300);
-image(lip,lipx-240,lipy-120,50,50)
+image(lip,lipx-235,lipy-120,50,50)
 }
 
 function take_snapshot(){
